@@ -1,4 +1,4 @@
-myprojects
+SwiftUI
 ==========
 
-My project
+SwiftUI Snippets
